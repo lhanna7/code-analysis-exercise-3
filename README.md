@@ -21,14 +21,14 @@ function (animal){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+|  cat  |  wide  | 
+|alligator| small | 
+|  dog  |  wide  | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This program takes the input, animal, and assigns a new name in all lowecase- called normalizedName. Then, the next function chekcs if normalizedName matches alligator. If alligator===alligator, then the output will return small. If anyotheranimal===alligator, then the output will return wide.</td>
   </tr>
 </table>
 
